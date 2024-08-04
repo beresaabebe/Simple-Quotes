@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Quotes</string>
+    <string name="this_is_a_quote">This is a quote</string>
+    <string name="copy">Copy</string>
+</resources>
